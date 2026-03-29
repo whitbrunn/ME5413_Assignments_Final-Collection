@@ -1,0 +1,17 @@
+conda activate py38-ROS
+evo_ape bag data/resbag/res4-3-1_graph_down.bag /ground_truth /tf:map.base_link --plot --align --save_plot /home/jy/Cources/ME5413_AG/ME5413_Ag2/task2/data/resmap/res4-3-1_graph_down/ape_plot.png
+
+
+/home/jy/Cources/ME5413_AG/ME5413_Ag2/task2/data
+
+
+evo_ape bag data/resbag/res13.bag /ground_truth /tf:map.base_link --plot --align --save_plot /home/jy/Cources/ME5413_AG/ME5413_Ag2/task2/data/resmap/res13/ape_plot.png
+
+rosbag info data/resbag/res14-2.bag
+
+rosbag info data/resbag/res4-3-1_graph_down.bag
+
+rosbag info data/resbag/res14-1.bag
+rosbag play data/resbag/res14-1.bag
+
+evo_ape bag data/resbag/res14-1.bag /ground_truth /tf:map.base_link --plot --align

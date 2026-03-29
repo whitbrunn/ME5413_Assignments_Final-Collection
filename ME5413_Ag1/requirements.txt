@@ -1,0 +1,9 @@
+# Created by Mai Jingyang, GitHub @Whitbrunn
+python==3.9
+numpy==1.26.0
+opencv-contrib-python==4.11.0.86
+torch==2.1.0
+pytorch-cuda==11.8
+transformers
+timm
+matplotlib

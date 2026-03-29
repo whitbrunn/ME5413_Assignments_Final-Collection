@@ -1,0 +1,18 @@
+source ~/ctgrapher_ws/devel_isolated/setup.bash
+
+roscore -p 23333
+# 查看环境变量
+echo $ROS_MASTER_URI
+# http://localhost:11311
+# 当前仍然指向默认的master，将环境变量修改至新的master
+export ROS_MASTER_URI=http://localhost:23333
+
+
+conda activate py38-ROS
+
+cd Cources/ME5413_AG/ME5413_Ag2/task2/
+
+sh run_task2
+
+
+tmux kill-server

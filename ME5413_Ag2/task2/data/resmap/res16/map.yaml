@@ -1,0 +1,7 @@
+image: /home/jy/Cources/ME5413_AG/ME5413_Ag2/task2/data/resmap/res16/map.pgm
+resolution: 0.050000
+origin: [-1.689996, -33.720001, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+
