@@ -1,6 +1,6 @@
 # ME5413 Assignments Final Collection, Ay 2024/2025
 
-This repo is an individual collection of the code & reports of assignment 1-3, from ME5413 Autonomous Mobile Robotics @nus, ay 2024/2025. Inspired by Jiayi Weng @thu, hope this repo could inspire your studying through this cource.
+This repo is an individual collection of the code & reports of assignment 1-3, from ME5413 Autonomous Mobile Robotics @NUS, ay 2024/2025, inspired by Jiayi Weng's works @THU (refer to [here](https://github.com/Trinkle23897/Undergraduate)). I hope this repo could inspire your studying through this cource.
 
 ## Table of Contents
 
