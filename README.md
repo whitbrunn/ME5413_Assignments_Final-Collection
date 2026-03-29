@@ -4,9 +4,9 @@ This repo is an individual collection of the code & reports of assignment 1-3, f
 
 ## Table of Contents
 
-- Assignment 1: Perception [[report](ME5413_AG1/report/ME5413%20Homework1%20Report%20-%20Mai%20Jingyang.pdf)] | [[code](ME5413_Ag1/README.md)]
-- Assignment 2: Localisation [[report](ME5413_AG2/report/ME5413%20Homework2%20Report%20-%20Mai%20Jingyang.pdf)] | [[code (task1)](ME5413_Ag2/task1/task1.py)]
-- Assignment 3: Planning [[report](ME5413_AG3/report/ME5413%20Homework3%20Report%20-%20Mai%20Jingyang.pdf)] | [[code](ME5413_Ag3/README.md)]
+- Assignment 1: Perception [[report](ME5413_Ag1/report/ME5413%20Homework1%20Report%20-%20Mai%20Jingyang.pdf)] | [[code](ME5413_Ag1/README.md)]
+- Assignment 2: Localisation [[report](ME5413_Ag2/report/ME5413%20Homework2%20Report%20-%20Mai%20Jingyang.pdf)] | [[code (task1)](ME5413_Ag2/task1/task1.py)]
+- Assignment 3: Planning [[report](ME5413_Ag3/report/ME5413%20Homework3%20Report%20-%20Mai%20Jingyang.pdf)] | [[code](ME5413_Ag3/README.md)]
 
 
 ## Contacts
