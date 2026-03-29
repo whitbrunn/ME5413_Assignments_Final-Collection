@@ -1,5 +1,5 @@
 # ME5413_HW3
--- by Mai Jingyang, please contact maijy1010@163.com for any questions.
+-- by Mai Jingyang, please contact maij@u.nus.edu for any questions.
 
 ## What we do
 
